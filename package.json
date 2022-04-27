@@ -1,5 +1,5 @@
 {
-  "name": "req1",
+  "name": "req2",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,9 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "jest": "^28.0.1"
+    "express": "^4.18.0"
   },
   "devDependencies": {
-    "eslint": "^8.14.0"
+    "eslint": "^8.14.0",
+    "jest": "^28.0.1"
   }
 }
